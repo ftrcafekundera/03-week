@@ -20,8 +20,8 @@ function promptUser(){
   
   if(pwdLength > 7 && pwdLength < 129){
     var containsNums = confirm("Do you want numbers in the password?");
-    var containsUpper = confirm("Do you want upper-case letters in the password?");
-    var containsLower = confirm("Do you want lower-case letters in the password?");
+    var containsUpper = confirm("Do you want uppercase letters in the password?");
+    var containsLower = confirm("Do you want lowercase letters in the password?");
     var containsSpecialChar = confirm("Do you want special characters in the password?");
  
     var userInput = {
