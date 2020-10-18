@@ -2,7 +2,7 @@
 
 # Description / Motivation
 
-This was a project to create an application that an employee could use to generate a random password based on criteria they've selected by modifying a starter code. Per the client's request, the application will randomly generate a password that meets certain crtieria (e.g., password length and characters used) so that stronger passwords can be generated for increased security.
+This was a project to create an application that an employee could use to generate a random password based on criteria they've selected. Per the client's request, the application will randomly generate a password that meets certain crtieria (e.g., password length and characters used) so that stronger passwords can be generated for increased security.
 
 This application runs in the browswer, and it features dynamically updated HTML and CSS powered by JavaScript code.
 
@@ -14,7 +14,9 @@ To access the webpage, you can click to the following link (https://ftrcafekunde
 
 # Usage
 
-When you arrive at the webpage, you will first need to click on the "Generate Password" button to initiate a sequence of questions pertaining to the attributes of the password. The first prompt will ask you for the amount of characters you would like the password to contain; this number must be no less than 8 and no more than 128. Subsequently, you will be asked if you would like for the password to contain numbers, uppercase letters, lowercase letters, and/or special characters. After you have completed all of the questions, your randomized password will appear in the box that says "Your Secure Password."
+When you arrive at the webpage, you will first need to click on the "Generate Password" button to initiate a sequence of questions pertaining to the desired criteria of the password. The first prompt will ask you for the amount of characters you would like the password to contain; this number must be no less than 8 and no more than 128. 
+
+Subsequently, you will be asked if you would like for the password to contain numbers, uppercase letters, lowercase letters, and/or special characters. After you have completed all of the questions, your randomized password will appear in the box that says "Your Secure Password."
 
 Example of a generated password:
 
